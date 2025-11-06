@@ -1,8 +1,11 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# CodeQuest: Escape the Lab
+An Educational Virtual Reality Game for Learning Basic Programming Concepts in C
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+# Screenshots
+[Alt text](Thumbnails/screen13.png)
+
+[Alt text](Thumbnails/screen12.png)
+
 
 https://youtu.be/apnfGuMI0Dc
 
@@ -17,4 +20,3 @@ https://kenney.nl/assets?q=audio
 
 https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
 
-sdfgsdfgsdfgsdfgsdfg
