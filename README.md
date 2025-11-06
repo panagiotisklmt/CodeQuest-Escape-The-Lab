@@ -2,9 +2,9 @@
 An Educational Virtual Reality Game for Learning Basic Programming Concepts in C
 
 # Screenshots
-[Alt text](Thumbnails/screen13.png)
+![Alt text](Thumbnails/screen13.png)
 
-[Alt text](Thumbnails/screen12.png)
+![Alt text](Thumbnails/screen12.png)
 
 
 https://youtu.be/apnfGuMI0Dc
