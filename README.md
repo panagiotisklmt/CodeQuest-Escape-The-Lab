@@ -1,7 +1,7 @@
-# CodeQuest: Escape the Lab
+# 🕹️ CodeQuest: Escape the Lab
 An Educational Virtual Reality Game for Learning Basic Programming Concepts in C
 
-# Screenshots
+# 📷 Screenshots
 ![Alt text](Thumbnails/screen13.png)
 
 ![Alt text](Thumbnails/screen12.png)
@@ -28,7 +28,10 @@ Through immersive 3D interactions, players solve puzzles that require applying t
 The project aims to evaluate the effectiveness of VR-based learning environments in improving programming comprehension and engagement compared to traditional teaching methods.
 The study includes a pre- and post-test experimental design and a user feedback questionnaire assessing usability, engagement, and perceived learning outcomes.
 
-# Youtube Footage
+# 🧾 Thesis
+https://polynoe.lib.uniwa.gr/xmlui/handle/11400/11123
+
+# 🎥 Youtube Footage of the Game
 https://youtu.be/G_UhG3R11BU
 
 # 🛠️ Technologies Used
@@ -50,7 +53,7 @@ Connect a VR headset or use Unity XR simulator.
 
 Press Play to start the main scene (MainMenu or Level1).
 
-# Author
+# 🤓 Author
 
 Tsaousis Panagiotis
 Master’s Thesis — University of West Attica (UniWA)
@@ -63,7 +66,7 @@ If you use this project or reference it in academic work, please cite as:
 
 Tsaousis Panagiotis, T.P. (2025). "Virtual reality and Programming Learning: Development and Experimental Evaluation of an Educational Serious Game" Master’s Thesis, University of West Attica.
 
-# External Ressources
+# ⚙️ External Ressources
 This project uses a combination of these assets and tutorials :
 
 https://youtu.be/6OT43pvUyfY
